@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-QQ:1293742927
-E-MAIl:haijunwang5@gmail.com
+  - QQ:1293742927
+  - E-MAIl:haijunwang5@gmail.com
 
 <!---
 Whj945/Whj945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
